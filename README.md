@@ -1,2 +1,2 @@
-# practiceblog
-Un blog de práctica para las clases de platzi sobre Git y Github
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
